@@ -1,0 +1,7 @@
+tensorflow==1.14.0
+keras==2.2.4
+opencv-python
+openpyxl==3.0.7
+Pillow==8.2.0
+pyocr==0.8
+
