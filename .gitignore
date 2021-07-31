@@ -1,0 +1,8 @@
+*~
+data
+out
+test_correct
+val_correct
+weights
+.DS_Store
+__pycache__
